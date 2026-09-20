@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated results, checkpoints, and figures/tables (regenerate via scripts/)
+ABLATION_data/
+BENCHMARKS_data/
+FINAL_MODEL_data/
+ROBUSTNESS_data/
+MODEL_SELECTION_REPORT_data/
+SOURCE_METHOD_REPRODUCTION/
+manuscript/
+*.csv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Vendored third-party reference code (see README for provenance)
+external/
+
+# Scratch / local tooling
+tmp/
+.claude/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

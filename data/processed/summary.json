@@ -1,0 +1,18 @@
+{
+  "ieee123": {
+    "nodes": 130,
+    "fixed_edges": 107,
+    "switches": 26,
+    "agents": 5,
+    "load_kw": 3490.0,
+    "der_kw": 2600.0
+  },
+  "ieee8500": {
+    "nodes": 4875,
+    "fixed_edges": 4779,
+    "switches": 100,
+    "agents": 10,
+    "load_kw": 10773.17,
+    "der_kw": 2600.0
+  }
+}

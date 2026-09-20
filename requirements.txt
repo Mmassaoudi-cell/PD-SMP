@@ -1,0 +1,8 @@
+# Exact environment used to generate all results in this repository.
+# Python 3.13.9 (MSC v.1944 64 bit, AMD64), Windows.
+torch==2.12.0.dev20260326+cu128
+numpy==2.4.1
+scipy==1.16.3
+networkx==3.6.1
+matplotlib==3.10.8
+OpenDSSDirect.py==0.9.4
